@@ -66,3 +66,54 @@ Kiruthiga
 
 ## 📌 Internship
 This project is submitted as part of the CodeAlpha Python Programming Internship.
+
+
+# 🤖 Basic Chatbot
+
+This is a simple rule-based chatbot developed using Python as part of the CodeAlpha Internship.
+
+---
+
+## 🚀 Project Description
+The chatbot interacts with users through predefined responses. It takes user input and replies based on simple conditions.
+
+---
+
+## ✨ Features
+- 💬 Responds to basic greetings
+- 🤖 Simple rule-based conversation
+- 🔁 Continuous interaction until user exits
+- ❌ Handles unknown inputs gracefully
+
+---
+
+## 🛠️ Technologies Used
+- Python
+- Concepts: Functions, Loops, Conditional Statements
+
+---
+
+## 📋 How It Works
+1. User types a message (e.g., hello, how are you)
+2. Chatbot checks the input
+3. Responds with predefined replies
+4. Continues until user types `bye`
+
+---
+
+## 📸 Output
+(Add your screenshot here)
+
+---
+
+## 📁 File Structure
+
+---
+
+## 👩‍💻 Author
+Kiruthiga
+
+---
+
+## 📌 Internship
+This project is submitted as part of the CodeAlpha Python Programming Internship.
